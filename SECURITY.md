@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any Edgelab-owned repo
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please send an email to [security@edgelab.ch](mailto:security@edgelab.ch).
+Instead, please use the "Report a vulnerability" feature that can be found in the repository's "Security" panel, or send an email to [security@edgelab.ch](mailto:security@edgelab.ch).
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
